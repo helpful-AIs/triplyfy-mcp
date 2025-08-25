@@ -6,7 +6,6 @@ A remote MCP server that lets Claude plan, edit, and save your trips to Triplyfy
 ### What is Triplyfy?
 A simple trip‑planning app to create and share itineraries. View is public by link, editing requires Google sign‑in. Drag‑and‑drop places and notes across days, see everything on a map, and add flights.
 
-### Screenshot
 ![Triplyfy](triplyfy-example-image.png)
 
 ### How to install (Claude Desktop)
