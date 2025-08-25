@@ -16,7 +16,7 @@ Open Claude Desktop → Settings → Developer → MCP Servers → Add server
 
 On first connect, you’ll be prompted to sign in with Google and approve access. No manual gateway run is required.
 
-### How it works (short)
+### How it works
 - Claude opens Google sign‑in (OAuth) on first connect.
 - Claude exchanges a code for a Triplyfy session token (~30 days).
 - The token only authenticates your requests from Claude to Triplyfy.
